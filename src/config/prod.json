@@ -1,0 +1,8 @@
+{
+  "db": {
+    "username": "prodadmin",
+    "password": "prodpassword",
+    "url": "mongodb://prod.atlas.com/devDB"
+  },
+  "s3url": "prod.s3.aws.com"
+}
